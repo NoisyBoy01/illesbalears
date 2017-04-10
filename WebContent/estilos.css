@@ -1,40 +1,11 @@
 @CHARSET "UTF-8";
 
-#path3424{
-	fill:#3cfe0d;
-	
-}
-
-#path3424:hover{
-	fill:red
-}
-
-#path4226{
-	fill:#3cfe0d;
-	
-}
-
-#path4226:hover{
+g:hover path{
 	fill:red;
 }
 
-
-#path4232{
-	fill:#3cfe0d;
-	
-	
-}
-
-
-#path4232:hover{
+/*
+#gmenorca:hover #fmenorca{
 	fill:red;
 }
-
-
-#path4238{
-	fill:3cfe0d;
-}
-
-#path4238:hover{
-	fill:red;
-}
+*/
